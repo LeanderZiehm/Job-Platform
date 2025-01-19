@@ -27,3 +27,34 @@ A modern **job board platform** designed for **entry-level programmers** 🧑‍
 - **Hosting**: Vercel 🌩️ 
 
 Connects to backend through api calls. The backend consits of Python 🐍 + Flask and the Database: MongoDB 🍃 (managed via MongoDB Atlas)
+
+
+
+
+# 🛠️ To-Dos for the Frontend
+Research Competitors 🔍
+
+Find similar job board platforms.
+Get inspired by their design, UX, and key features (e.g., search, filters, or statistics).
+Scrape Initial Data 🗂️
+
+Collect job postings from competitors using scraping tools like BeautifulSoup (Python) or Puppeteer (Node.js).
+Display this data on the platform as a starting point.
+Display Jobs 💻
+
+Build a clean, responsive UI to showcase job postings.
+Add filters for programming languages, locations, and remote options.
+User Interaction ✍️
+
+Allow users to manually add jobs through a form.
+Validate and save the data to your backend.
+Authentication 🔒
+
+Implement user authentication using JWT or OAuth.
+Differentiate roles (e.g., job seekers vs. employers).
+Statistics Dashboard 📊
+
+Build a section to display aggregated data, like:
+Most popular programming languages.
+Remote vs. on-site job ratio.
+Job count by location.
