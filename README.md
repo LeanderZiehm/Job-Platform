@@ -31,7 +31,7 @@ Connects to backend through api calls. The backend consits of Python 🐍 + Flas
 
 
 
-# 🛠️ To-Dos for the Frontend
+# ✅ To-Dos for the Frontend
 Research Competitors 🔍
 
 Find similar job board platforms.
